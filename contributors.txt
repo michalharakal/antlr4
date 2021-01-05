@@ -260,6 +260,7 @@ YYYY/MM/DD, github id, Full name, email
 2020/04/08, lwehmeier, Leon Wehmeier, wehmeier@st.ovgu.de
 2020/04/10, agrabski, Adam Grabski, adam.gr@outlook.com
 2020/04/23, martinvw, Martin van Wingerden, martin@martinvw.nl
+2020/04/23, kaczmarj, Jakub Kaczmarzyk, jakub.kaczmarzyk@stonybrookmedicine.edu
 2020/04/30, TristonianJones, Tristan Swadell, tswadell@google.com
 2020/05/06, iammosespaulr, Moses Paul R, iammosespaulr@gmail.com
 2020/05/10, gomerser, Erik Gomersbach, gomerser@gomersba.ch
